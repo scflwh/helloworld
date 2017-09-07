@@ -1,0 +1,7 @@
+#include <string.h>
+#include <std.h>
+
+int main ()
+{
+  printf("Hello World\r\n");
+}
